@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/The-Coven-House/static/css/main.abc2c919.css",
+    "main.js": "/The-Coven-House/static/js/main.f863cda1.js",
+    "static/js/115.bb70b67e.chunk.js": "/The-Coven-House/static/js/115.bb70b67e.chunk.js",
+    "static/js/111.f0be9581.chunk.js": "/The-Coven-House/static/js/111.f0be9581.chunk.js",
+    "static/js/890.91f800a4.chunk.js": "/The-Coven-House/static/js/890.91f800a4.chunk.js",
+    "static/media/kaushan-script-all-400-normal.woff": "/The-Coven-House/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/sirin-stencil-all-400-normal.woff": "/The-Coven-House/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/The-Coven-House/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/The-Coven-House/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/The-Coven-House/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "index.html": "/The-Coven-House/index.html",
+    "main.abc2c919.css.map": "/The-Coven-House/static/css/main.abc2c919.css.map",
+    "main.f863cda1.js.map": "/The-Coven-House/static/js/main.f863cda1.js.map",
+    "115.bb70b67e.chunk.js.map": "/The-Coven-House/static/js/115.bb70b67e.chunk.js.map",
+    "111.f0be9581.chunk.js.map": "/The-Coven-House/static/js/111.f0be9581.chunk.js.map",
+    "890.91f800a4.chunk.js.map": "/The-Coven-House/static/js/890.91f800a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc2c919.css",
+    "static/js/main.f863cda1.js"
+  ]
+}
